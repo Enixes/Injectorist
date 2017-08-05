@@ -1,4 +1,4 @@
-# Injectorist :: Is Your Wireless Card capable of Packet Injection? :: Packet-Injection-Checker
+# Injectorist :: Is Your Wireless Card capable of Packet Injection? 
 Injectorist is a simple bash script to check Packet Injection capabilities in all connected wireless cards
 # Dependencies
 1) aircrack-ng::: Install it by executing following command as root in terminal
@@ -25,4 +25,14 @@ Enter root password:____
 
 5) Run the script
 > ./InjectionCheck
+
+6) Now, Injectorist will scan all wireless cards connected for packet injection.
+
+# Future Perspective
+Adding features such as 
+~ Checking Monitor Mode support
+
+~ Enabling Monitor Mode
+
+~ Many more...
 
